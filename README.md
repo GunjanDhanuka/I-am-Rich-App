@@ -1,15 +1,11 @@
 # i_am_rich
 
-A new Flutter application.
+A very basic Flutter application that lets you show off that you are rich.
 
-## Getting Started
+I have implemented the use of Widgets in this project and how to use images from web or local files.
+Also I learnt how to design app icons for different platforms.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
